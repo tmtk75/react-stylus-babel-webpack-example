@@ -1,0 +1,30 @@
+{
+  "name": "react-stylus-babel-webpack-example",
+  "version": "0.0.0",
+  "authors": [
+    "tmtk75"
+  ],
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bacon": "~0.7.53",
+    "lodash": "",
+    "react": "~0.13.1",
+    "font-awesome": "",
+    "moment": "",
+    "jwerty": "",
+    "jquery-color": "",
+    "primer-css": "~2.0.3"
+  }
+}

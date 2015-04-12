@@ -1,0 +1,25 @@
+{
+  "name": "react-stylus-babel-webpack-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "npm run serve | npm run dev",
+    "serve": "./node_modules/.bin/http-server -p 8080",
+    "dev": "webpack-dev-server --progress --colors --port 8080"
+  },
+  "author": "tmtk75",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-loader": "^5.0.0",
+    "bower": "^1.4.1",
+    "css-loader": "^0.10.1",
+    "http-server": "^0.8.0",
+    "style-loader": "^0.10.1",
+    "stylus-loader": "^1.1.0",
+    "webpack": "^1.8.4",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
